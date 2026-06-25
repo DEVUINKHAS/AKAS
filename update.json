@@ -1,7 +1,7 @@
 {
   "latestVersionCode": 2,
   "latestVersionName": "1.1",
-  "isForceUpdate": false,
+  "isForceUpdate": true,
   "updateUrl": "https://github.com/DEVUINKHAS/AKAS/releases",
   "releaseNotes": "⚡ Pembaruan Asisten Akademik v1.1:\n- Perbaikan bug pemeriksaan update\n- Peningkatan stabilitas performa alarm asisten\n- Optimasi antarmuka pengguna"
 }
